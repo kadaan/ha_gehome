@@ -1,5 +1,5 @@
 {
-  "name": "GE Home (SmartHQ)",
+  "name": "GE Home (SmartHQ) (Kadaan)",
   "homeassistant": "2025.9.0",
   "domains": ["binary_sensor", "sensor", "switch", "water_heater", "select", "button", "climate", "light", "number"],
   "iot_class": "Cloud Polling"
